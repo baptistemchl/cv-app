@@ -3,18 +3,22 @@
 CV App / Cours FLUTTER :
 
 - [Application CV](#application-cv)
+  * [A propos du projet](#a-propos-du-projet)
   * [IHM Profil](#ihm-profil)
   * [IHM Experiences](#ihm-experiences)
   * [IHM Formations](#ihm-formations)
   * [IHM Compétences](#ihm-compétences)
   * [IHM Informations](#ihm-informations)
 
-
 ### Video de l'ensemble de l'application.
 
-![video](screenshots/total.gif)
 
-* les icones comme linkedin ou github sont cliquables et redirigent vers mes profils.
+| Prévisualisation du projet  | Nota | 
+| :---:      |     :---:      | 
+|![video](screenshots/total.gif)| Les icones comme Linkedin ou Github situés sur la page Profil </br> ainsi que sur l'appBar sont cliquables et </br> redirigent vers mes profils.
+
+
+## A propos du projet 
 
 | Commentaires sur le projet | Difficultés principales | Evolutions envisagées |
 | :---:      |     :---:      |         :---: |
